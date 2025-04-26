@@ -1,0 +1,18 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__
+
+# Virtual environment folder
+myenv/
+
+# .env file (for storing API keys and sensitive data)
+.env
+
+# Streamlit config and cache folders
+.streamlit/
+*.db
+
+# IDE/editor files
+.vscode/
+.idea/
